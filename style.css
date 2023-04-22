@@ -1,0 +1,128 @@
+*{
+ margin: 0px;
+}
+body{
+  background-color: #303030;
+}
+header{
+  height: 30px;
+  position: relative;
+}
+img#casa{
+  width: 4%;
+  margin: 0px;
+  position: absolute;
+  top:20%;
+  left: 5px;
+}
+#pontinho{
+  margin: 0px;
+  position: absolute;
+  top: 35%;
+  left: 95%;
+  width: 1.3%;
+}
+#avatar{
+  margin: 0px;
+  width: 8%;
+  position: absolute;
+  top: 0%;
+  left: 85%;
+}
+main{
+  padding: 20px;
+}
+h1#google {
+  font-size: 100px;
+  font-weight: 300;
+}
+div#TituloPrincipal{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  color: white;
+}
+div#BarraPesquisa{
+  align-items: center;
+  margin-top:20px;
+  position: relative;
+
+  
+}
+#Pesquisa{
+  border: none;
+  background-color: #454545;
+  display: block;
+  margin: auto;
+  height: 40px;
+  width: 100%;
+  border-radius: 20px;
+  color: white;
+}
+#microfone{
+  width: 20px;
+  position: absolute;
+  top: 25%;
+  left: 85%
+  
+}
+#camera{
+  width: 20px;
+  position: absolute;
+  top: 25%;
+  left: 95%
+}
+div#Netflix{
+  width: 85%;
+  margin: auto;
+  padding-left: 8%;
+
+}
+.blocoNet{
+  display: inline-block;
+  width: 15%;
+  margin: 4%;
+}
+.iconNet{
+  width: 100%;
+}
+.TituloNet{
+  color: black;
+  font-size: 20%;
+  margin: 0px;
+  text-align: center;
+  font-weight: 400;
+  color: white;
+}
+#semiFooter{
+  width: 100%;
+  border: 3px solid white;
+  height: 20px;
+  margin:0px;
+  margin-bottom: 15px;
+}
+footer{
+  border: 3px solid black;
+  margin: 0px;
+}
+#pa{
+  display: flex;
+  margin:0px;
+}
+#conteudo{
+  display: inline-block;
+}
+#h1Footer{
+  color: white;
+  font-size: 17px;
+  margin-top: 30px;
+  font-weight: 300;
+  margin-left: 10px;
+  
+}
+#fotoFooter{
+  width: 100px;
+  display: inline-block;
+  border-radius: 20px;
+  margin-left: 25px;
+}
